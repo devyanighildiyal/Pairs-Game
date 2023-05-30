@@ -91,18 +91,18 @@ while C == 'Y' or C == 'y':
         print(Grid2['3a'], Grid2['3b'], Grid2['3c'], Grid2['3d']) 
         print(Grid2['4a'], Grid2['4b'], Grid2['4c'], Grid2['4d'])
       C = input("\nWant to play again (Y/N)? : ")
+
+
+
+    #Match the pair (difficult)
+    
     elif lev == 2:
-      print("\nInstructions for MATCH THE PAIR : ")
-      print("This is a single player game where you will be provided with two 4*4 grids in which pair of 10 symbols are hidden.")
-      print("You will have to select a tile from grid 1 and find its matching tile in grid 2, for these you will enter the coordinates like 1a , 2b , 1c etc. ")
-      print("Horizontal Coordinates — (a,b,c,d) and Vertical Coordinates — (1,2,3,4)")
-      print("You will get 4 chances in total")
-      print("Scoring Pattern: \nRight guess — +1 \nWrong guess — 0  \nDead tile(on either grid) — -1")
-
-
-      
-      #Match the pair (difficult)
-      
+      print("\nInstructions for MATCH THE PAIR : \n")
+      print("1) This is a single player game where you will be provided with two 4*4 grids in which pair of 10 symbols are hidden.")
+      print("2) You will have to select a tile from grid 1 and find its matching tile in grid 2, for these you will enter the coordinates like 1a , 2b , 1c etc. ")
+      print("3) Horizontal Coordinates — (a,b,c,d) and Vertical Coordinates — (1,2,3,4)")
+      print("4) You will get 4 chances in total")
+      print("5) Scoring Pattern: \nRight guess — +1 \ni) Wrong guess — 0  \nii) Dead tile(on either grid) — -1")
       Tiles = ["🍇","🍈","🍉","🍊","🍋","🍌","🍍","🍎","🍏","🍒","💀","💀","💀","💀","💀","💀"]
       Score = 0
       Cnts1 = [0]*16
@@ -177,18 +177,18 @@ while C == 'Y' or C == 'y':
         print(Grid2['3a'], Grid2['3b'], Grid2['3c'], Grid2['3d']) 
         print(Grid2['4a'], Grid2['4b'], Grid2['4c'], Grid2['4d'])
       C = input("\nWant to play again (Y/N)? : ")
+
+
+
+  #Find the symbol
+  
   elif Mode == 2:
-    print("\nInstructions for FIND THE SYMBOL : ")
-    print("This is a single player game where you will be provided with a list of symbols and a 5*5 grid in which 10 symbols are hidden.")
-    print("You will have to select a symbol from the given list and find its matching symbol in the grid, for this you will enter the coordinates like 1a , 2b , 1c etc. ")
-    print("Horizontal Coordinates — (a,b,c,d,e) and Vertical Coordinates — (1,2,3,4,5)")
-    print("You will get one chance for each symbol")
-    print("Scoring Pattern: \nRight guess — +1 \nWrong guess — 0  \nDead tile — -1")
-
-
-    
-    #Find the pair
-    
+    print("\nInstructions for FIND THE SYMBOL : \n")
+    print("1) This is a single player game where you will be provided with a list of symbols and a 5*5 grid in which 10 symbols are hidden.")
+    print("2) You will have to select a symbol from the given list and find its matching symbol in the grid, for this you will enter the coordinates like 1a , 2b , 1c etc. ")
+    print("3) Horizontal Coordinates — (a,b,c,d,e) and Vertical Coordinates — (1,2,3,4,5)")
+    print("4) You will get one chance for each symbol")
+    print("5) Scoring Pattern: \nRight guess — +1 \ni) Wrong guess — 0  \nii) Dead tile — -1")
     Tiles = ["🍇","🍈","🍉","🍊","🍋","🍌","🍍","🍎","🍏","🍒","💀","💀","💀","💀","💀","💀","💀","💀","💀","💀","💀","💀","💀","💀","💀"]
     Score = 0
     Cnts = [0]*25
