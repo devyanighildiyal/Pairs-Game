@@ -1,2 +1,2 @@
 # Pairs-Game
-School project on game created using python basics
+Developed an innovative game using Python programming langua
