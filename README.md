@@ -1,2 +1,2 @@
 # Pairs-Game
-Developed an innovative game using Python programming langua
+Developed an innovative game using Python programming language
