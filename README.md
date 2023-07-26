@@ -39,9 +39,6 @@ Instructions for FIND THE SYMBOL :
 3) Horizontal Coordinates — (a,b,c,d,e) and Vertical Coordinates — (1,2,3,4,5)
 4) You will get one chance for each symbol
 5) Scoring Pattern:
-   
-* Right guess — +1 
-
+* Right guess — +1
 * Wrong guess — 0  
-
 * Dead tile — -1
