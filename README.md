@@ -41,3 +41,13 @@ b) Instructions for FIND THE SYMBOL :
 * Right guess — +1
 * Wrong guess — 0  
 * Dead tile — -1
+
+
+## License
+This project is licensed under the Creative Commons Zero v1.0 Universal license.
+
+## Contact
+For any questions regarding the project, you can reach out to:
+
+Project Creator: Devyani Ghildiyal
+Email: devyanighildiyal07@gmail.com
