@@ -2,7 +2,7 @@
 Developed an innovative  Python game for my high school project, skillfully crafting its mechanics using fundamental concepts like if-else statements.
 
 
-# Introduction to the Game
+## Introduction to the Game
 
 Welcome to PAIRS
 
