@@ -8,9 +8,9 @@ Welcome to PAIRS
 
 This game is inspired by the simple cards game. This game has two modes — 
 
-a) MATCH THE PAIR(two 4*4 grids) 
+a)  MATCH THE PAIR(two 4*4 grids) 
 
-b) FIND THE SYMBOL(5*5 grid) 
+b)  FIND THE SYMBOL(5*5 grid) 
 
 You will first choose a mode to play(1-MTP , 2-FTS)
 Once  mode is selected you will be asked to select the difficulty level
