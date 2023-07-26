@@ -38,7 +38,10 @@ Instructions for FIND THE SYMBOL :
 2) You will have to select a symbol from the given list and find its matching symbol in the grid, for this you will enter the coordinates like 1a , 2b , 1c etc. 
 3) Horizontal Coordinates — (a,b,c,d,e) and Vertical Coordinates — (1,2,3,4,5)
 4) You will get one chance for each symbol
-5) Scoring Pattern: 
+5) Scoring Pattern:
+   
 i) Right guess — +1 
+
 ii) Wrong guess — 0  
+
 iii) Dead tile — -1
