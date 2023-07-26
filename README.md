@@ -13,8 +13,8 @@ This game is inspired by the simple cards game. This game has two modes —
 
 You will first choose a mode to play(1-MTP , 2-FTS)
 Once  mode is selected you will be asked to select the difficulty level
-1 is for Easy
-2 is for Difficult
+*1 is for Easy
+*2 is for Difficult
 
 
 
