@@ -26,8 +26,8 @@ Instructions for MATCH THE PAIR :
 3) Horizontal Coordinates — (a,b,c,d) and Vertical Coordinates — (1,2,3,4)
 4) You will get 4 chances in total
 5) Scoring Pattern: 
-i) Right guess — +1 
-ii) Wrong guess — 0
+* Right guess — +1 
+* Wrong guess — 0
 
 
 
@@ -40,8 +40,8 @@ Instructions for FIND THE SYMBOL :
 4) You will get one chance for each symbol
 5) Scoring Pattern:
    
-i) Right guess — +1 
+* Right guess — +1 
 
-ii) Wrong guess — 0  
+* Wrong guess — 0  
 
-iii) Dead tile — -1
+* Dead tile — -1
